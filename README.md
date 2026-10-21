@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aftermonos&color=76B900&style=flat-square&label=PROFILE+VIEWS" />
   <a href="https://x.com/aftermonous"><img src="https://img.shields.io/badge/X-@aftermonous-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <img src="https://img.shields.io/github/followers/aftermonos?label=FOLLOWERS&style=flat-square&color=76B900&labelColor=000000" />
   <img src="https://img.shields.io/badge/Coffee-Saturated-76B900?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Sleep-Deprecated-red?style=flat-square&labelColor=000000" />
 </p>
@@ -131,7 +129,6 @@ if __name__ == "__main__":
 + [  OK  ] Started service: deep-work.service
 + [  OK  ] Reached target: NVIDIA Internship (2024 - 2026)
 + [  OK  ] Established uplink to San Francisco
-+ [  OK  ] Synced 34 following, 26 followers
 ! [ WARN ] Coffee levels below recommended threshold
 ! [ WARN ] Number of open tabs exceeds sane limits
 ! [ WARN ] 47 unfinished side projects detected, launching 48th anyway
@@ -503,31 +500,6 @@ philosophy: >
  [ ]  build something so fast it looks like a bug
  [ ]  sleep (low priority)
 ```
-
-<br/>
-
-## `> telemetry`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aftermonos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=76B900&icon_color=76B900&text_color=c9d1d9&ring_color=76B900&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftermonos&layout=compact&hide_border=true&bg_color=0d1117&title_color=76B900&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aftermonos&hide_border=true&background=0d1117&ring=76B900&fire=76B900&currStreakLabel=76B900&sideLabels=76B900&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e&stroke=21262d" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aftermonos&bg_color=0d1117&color=76B900&line=76B900&point=FFFFFF&area=true&area_color=76B900&hide_border=true&title_color=76B900&custom_title=aftermonos%20//%20contribution%20throughput" />
-</p>
-
-<br/>
-
-## `> achievements --unlocked`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aftermonos&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
 
 <br/>
 
